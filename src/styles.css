@@ -1,0 +1,13 @@
+html,
+body,
+form {
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.webmap {
+  width: 100vw;
+  height: 97vh;
+}
