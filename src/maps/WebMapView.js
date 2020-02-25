@@ -26,7 +26,7 @@ export const WebMapView = () => {
         view: view
       });
 
-      view.ui.add(ccWidget, "bottom-left");
+      view.ui.add(ccWidget, "bottom-right");
 
       return () => {
         if (view) {
